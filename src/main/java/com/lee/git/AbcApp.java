@@ -8,4 +8,7 @@
 package com.lee.git;
 
 public class AbcApp {
+    public static void main(String[] args) {
+
+    }
 }
